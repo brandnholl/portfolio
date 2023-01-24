@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: thoughts
+date: 2025-2-19
 ---
 
-# Posts
+# thoughts
