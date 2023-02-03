@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Brandnholl',
     description: 'Student and web developer',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: '/public/images/darkmodepreview.png'
   }
 
   return (
