@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Brandnholl',
     description: 'Student and web developer',
-    image: '/public/images/darkmodepreview.png'
+    image: 'https://cdn.discordapp.com/attachments/856782457127174164/1071178072914661486/darkmodepreview.png'
   }
 
   return (
