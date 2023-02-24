@@ -1,7 +1,7 @@
 ---
-title: Lo-fi, Exploring the Beauty of Imperfection
+title: Lofi Dreams
 date: 2023/1/26
-description: I'll get around to writing this sometime
+description: The beauty of low fidelity music
 tag: Lofi
 author: brandnholl
 ---
